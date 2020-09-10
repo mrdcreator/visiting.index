@@ -1,0 +1,187 @@
+body
+{
+	padding: 0;
+	margin: 0;
+	background-color: lightgreen;
+}
+.container
+{
+	
+	width: 70%;
+	margin: 30px auto;
+	background-color: #fff;
+	text-align: center;
+}
+.container1
+{
+	width: 100%;
+	
+	background-color: darkgreen;
+	text-align: center;
+	color: #fff;
+	padding-bottom: 10px;
+
+}
+.container1 img
+{
+	border-radius: 50%;
+	width: 100%;
+  max-width: 100px;
+  height: 100px;
+	margin-top: 40px;
+}
+h3
+{
+	margin-top: 15px;
+	font-family: verdana;
+	margin-bottom: 0;
+
+}
+p
+{
+	margin-top: 0;
+	font-family: verdana;
+}
+.container2
+{
+	padding: 30px;
+	text-align: center;
+	color: #fff;
+	padding-bottom: 15px;
+	background-color: green;
+}
+.contact
+{
+	
+	height: auto;
+	text-align: center;
+	margin: 0px auto;
+}
+.call
+{
+	border-radius: 5px;
+	height: 60px;
+	width: 100%;
+	margin-top: 1px;
+	background-color: white;
+display: flex;
+  align-items: flex-start;
+ text-align: center;
+}
+.call :first-child {
+    align-self: center;
+}
+
+.call img
+{
+ display: inline-block;
+ height: 20px;
+ width: 20px;
+ text-align: center;
+ padding: 8px;
+}
+.call a
+{
+	display: inline-block;
+	font-size: 14px;
+	color: gray;
+	text-align: left;
+ margin-top: 15px;
+ text-decoration: none;
+ font-family: verdana;
+ padding-left: 8px;
+}
+
+.email
+{
+	border-radius: 5px;
+	height: 60px;
+	width: 100%;
+	margin-top: 1px;
+	background-color: white;
+display: flex;
+  align-items: flex-start;
+ text-align: center;
+
+}
+.email :first-child {
+    align-self: center;
+}
+.email img
+{
+ display: inline-block;
+ height: 20px;
+ width: 20px;
+ padding: 8px;
+}
+.email a
+{
+	display: inline-block;
+	font-size: 14px;
+	color: gray;
+	text-align: left;
+ margin-top: 15px;
+ text-decoration: none;
+ font-family: verdana;
+ padding-left: 8px;
+}
+
+.whatsapp
+{
+	border-radius: 5px;
+	height: 60px;
+	width: 100%;
+	margin-top: 1px;
+	background-color: white;
+display: flex;
+  align-items: flex-start;
+ text-align: center;
+}
+.whatsapp :first-child {
+    align-self: center;
+}
+.whatsapp img
+{
+ display: inline-block;
+ height: 20px;
+ width: 20px;
+  padding: 8px;
+}
+.whatsapp a
+{
+	display: inline-block;
+	font-size: 14px;
+	color: gray;
+	margin-top: 15px;
+	text-decoration: none;
+	text-align: left;
+	font-family: verdana;
+	padding-left: 8px;
+}
+.fa {
+  padding: 7px 5px;
+  font-size: 10px;
+  width: 20px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+  margin-top: 12px;
+}
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #fff;
+  color: darkgray;
+}
+
+.fa-twitter {
+  background: #fff;
+  color: darkgray;
+}
+
+.fa-linkedin {
+  background: #fff;
+  color: darkgray;
+}

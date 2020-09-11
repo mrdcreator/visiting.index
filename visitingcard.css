@@ -2,12 +2,12 @@ body
 {
 	padding: 0;
 	margin: 0;
-	background-color: lightgreen;
+	background-color: #55D5EC;
 }
 .container
 {
 	
-	width: 70%;
+	width: 80%;
 	margin: 30px auto;
 	background-color: #fff;
 	text-align: center;
@@ -16,7 +16,7 @@ body
 {
 	width: 100%;
 	
-	background-color: darkgreen;
+	background-color: #0F8296;
 	text-align: center;
 	color: #fff;
 	padding-bottom: 10px;
@@ -48,7 +48,7 @@ p
 	text-align: center;
 	color: #fff;
 	padding-bottom: 15px;
-	background-color: green;
+	background-color: #27ACC4;
 }
 .contact
 {
